@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+This script shows your VK friends who are online right now.
 
 # How to Install
 
